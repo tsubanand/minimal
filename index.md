@@ -21,15 +21,6 @@ The following article sections will briefly touch on LSTM neuron cells, give a t
 
 
 ---
-### Awesome Machine Learning
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tsubanand/awesome-machine-learning)
-
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
-
-<center><img src="assets/img/machine_learning.jpg"/></center>
-
----
 ### Human Activity Recognition
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/tsubanand/LSTM-Human-Activity-Recognition)
